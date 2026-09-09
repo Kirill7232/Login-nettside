@@ -1,5 +1,7 @@
 
 
+   
+
     const CORRECT_USER = "kirill";
     const CORRECT_PASS = "12345";
 
@@ -21,4 +23,3 @@
         message.textContent = "Wrong username or password.";
       }
     });
- 
